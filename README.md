@@ -56,9 +56,9 @@ If the control input changes to AB = 10, then all the gates are restricted excep
 6.End the module.
 7.Generate RTL realization and timing diagrams.
 ### PROGRAM 
-## Program for flipflops  and verify its truth table in quartus using Verilog programming.
-## Developed by:G.Pavithra
-## RegisterNumber:212221240036
+### Program for flipflops  and verify its truth table in quartus using Verilog programming.
+### Developed by:G.Pavithra
+### RegisterNumber:212221240036
 ## 1X4 MUX:
 ~~~  
 module fm(I0,I1,I2,I3,S0,S1,Y);
